@@ -1,0 +1,9 @@
+Day 1 Data Quality Summary
+
+• Successfully loaded all datasets.
+• Verified shapes, data types and sample records.
+• Explored fund houses and scheme categories.
+• Risk categories ranged from Low to Very High.
+• AMFI codes were validated against NAV history.
+• Live NAV data was fetched using mfapi.in.
+• Historical NAV data for 5 major schemes was collected.

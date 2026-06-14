@@ -1,0 +1,4 @@
+• Missing values found in Expense_Ratio.
+• Date column stored as object instead of datetime.
+• Some categorical columns have inconsistent spelling.
+• No duplicate rows observed.
